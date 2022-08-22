@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <>
     <HeaderTabs user = {user} tabs={tabs} urls={urls} />
+    
     </>
   )
 }
